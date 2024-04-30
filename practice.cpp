@@ -2,11 +2,10 @@
 
 using namespace std;
 
-int add(int a, int b){
-    return a+b;
+int multiply(int a, int b){
+    return a*b;
 }
-
 int main(){
-    cout<<"Hello, world!"<<endl;
+    cout<<"Hi, world!"<<endl;
     return 0;
 }
